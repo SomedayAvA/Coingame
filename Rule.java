@@ -7,7 +7,7 @@ import javax.swing.*;
 
 
 /**
- * @author Tianyi Zhang
+ * @author Tianyi Wang
  */
 public class Rule extends JFrame {
     public Rule() {
